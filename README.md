@@ -1,1 +1,1 @@
-# vagrant-rest
+# Vagrant REST
