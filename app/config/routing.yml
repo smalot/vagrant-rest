@@ -1,0 +1,4 @@
+smalot_vagrant_rest:
+    resource: "@SmalotVagrantRestBundle/Controller/"
+    type:     annotation
+    prefix:   /api
