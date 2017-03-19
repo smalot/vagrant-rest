@@ -1,0 +1,4 @@
+services:
+#    smalot_vagrant_dashboard.example:
+#        class: Smalot\Vagrant\DashboardBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

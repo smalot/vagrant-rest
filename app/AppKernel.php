@@ -18,6 +18,7 @@ class AppKernel extends Kernel
             new JMS\SerializerBundle\JMSSerializerBundle(),
             new FOS\RestBundle\FOSRestBundle(),
             new Smalot\Vagrant\RestBundle\SmalotVagrantRestBundle(),
+            new Smalot\Vagrant\DashboardBundle\SmalotVagrantDashboardBundle(),
         ];
 
         if (in_array($this->getEnvironment(), ['dev', 'test'], true)) {

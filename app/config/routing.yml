@@ -1,3 +1,8 @@
+smalot_vagrant_dashboard:
+    resource: "@SmalotVagrantDashboardBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
 smalot_vagrant_rest:
     resource: "@SmalotVagrantRestBundle/Controller/"
     type:     annotation

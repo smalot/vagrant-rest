@@ -1,0 +1,21 @@
+{
+  "name": "vagrant-rest",
+  "homepage": "https://github.com/smalot/vagrant-rest",
+  "authors": [
+    "Sebastien Malot <smalot@actualys.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v3.3.7"
+  }
+}
