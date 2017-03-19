@@ -1,0 +1,27 @@
+body {
+  background-color: #2b2b2b;
+  color: white;
+}
+
+abbr {
+  cursor: help;
+  border-bottom: 1px dotted white;
+}
+
+.board {
+  .widget {
+    .title {
+      text-align: center;
+    }
+
+    .gauge {
+      width: 100%;
+      text-align: center;
+
+      .rbc-center-text-line0 {
+        fill: white;
+        font-size: 30px;
+      }
+    }
+  }
+}

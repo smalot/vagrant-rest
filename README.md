@@ -1,4 +1,14 @@
-vagrant-rest
+Vagrant Web
 ============
 
-A Symfony project created on March 14, 2017, 9:14 pm.
+Todo
+----
+
+Try this:
+- https://github.com/toorshia/justgage
+
+
+Details
+-------
+
+http://stackoverflow.com/questions/17845637/how-to-change-vagrant-default-machine-name
